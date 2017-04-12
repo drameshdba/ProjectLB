@@ -1,4 +1,4 @@
-# ProjectA
+# ProjectLB
 
 This template allows you to deploy a simple Windows or Linux VM for using the Infrastructure Pattern Template CVM1, CVM2, CVM3, CVM4 and CVM5. 
 
@@ -20,7 +20,7 @@ Click on the **Deploy to Azure** button below. This will open the Azure Portal (
 
 Click on the **Deploy to Azure** button below. This will open the Azure Portal (login if necessary) and start a Custom Deployment. The following Parameters will be shown and must be updated / selected accordingly. 
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdrameshdba%2FProjectA%2Fmaster%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdrameshdba%2FProjectLB%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
